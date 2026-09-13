@@ -2,7 +2,6 @@
 
 An interactive **Excel dashboard** built to analyze coffee shop sales, customer footfall, product performance, store-wise sales, and ordering trends.
 
----
 
 ## 💼 Business Problem
 
