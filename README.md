@@ -1,12 +1,10 @@
-
-````markdown
-# ☕ Coffee Shop Sales Analysis Dashboard
+# ☕ Coffee Shop Sales Analysis
 
 An interactive **Excel dashboard** built to analyze coffee shop sales, customer footfall, product performance, store-wise sales, and ordering trends.
 
 ## 🎯 Project Objective
 
-The objective of this project is to analyze coffee shop sales data using **Microsoft Excel** and create an interactive dashboard that provides insights into **sales performance, customer behavior, product demand, and store performance**.
+The objective of this project is to analyze coffee shop sales data using **Microsoft Excel** and create an interactive dashboard that provides actionable insights into **sales performance, customer behavior, product demand, and store performance**.
 
 ## 📊 Dashboard
 
@@ -27,7 +25,7 @@ The objective of this project is to analyze coffee shop sales data using **Micro
 - 🏆 **Barista Espresso** is the top-selling product with **$91,406.20** in sales.
 - 🏪 **Hell's Kitchen** has the highest sales among the three store locations.
 - ⏰ Customer orders are highest during the **morning hours**.
-- 📊 The dashboard provides insights into product, category, size, store, and weekday performance.
+- 📊 The dashboard provides insights into weekday, product, category, size, and store performance.
 
 ## 🛠️ Tools Used
 
@@ -39,11 +37,20 @@ The objective of this project is to analyze coffee shop sales data using **Micro
 - Data Visualization
 - Dashboard Design
 
-## 📂 Project Structure
+## 📂 Project Files
 
 ```text
 Coffee_Shop_Sales_Analysis/
 │
-├── README.md
-├── coffee shop sales Analysis.xlsx
-└── coffee_sales_Dashboard.png
+├── coffee_sales_Dashboard.png
+├── Coffee Shop Sales Dashboard.xlsx
+├── data/
+│   └── coffee_shop_sales.xlsx
+└── README.md
+```
+
+## 👨‍💻 Author
+
+**Satyam Kadlag**
+
+[GitHub](https://github.com/satyamkadlag1122) | [LinkedIn](https://www.linkedin.com/in/satyamkadlag/)
