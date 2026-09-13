@@ -42,15 +42,7 @@ The objective of this project is to analyze coffee shop sales data using **Micro
 ```text
 Coffee_Shop_Sales_Analysis/
 │
-├── coffee_sales_Dashboard.png
-├── Coffee Shop Sales Dashboard.xlsx
-├── data/
-│   └── coffee_shop_sales.xlsx
-└── README.md
+├── README.md
+├── coffee shop sales Analysis.xlsx
+└── coffee_sales_Dashboard.png
 ```
-
-## 👨‍💻 Author
-
-**Satyam Kadlag**
-
-[GitHub](https://github.com/satyamkadlag1122) | [LinkedIn](https://www.linkedin.com/in/satyamkadlag/)
