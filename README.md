@@ -2,10 +2,29 @@
 
 An interactive **Excel dashboard** built to analyze coffee shop sales, customer footfall, product performance, store-wise sales, and ordering trends.
 
-## 🎯 Project Objective
+---
 
-The objective of this project is to analyze coffee shop sales data using **Microsoft Excel** and create an interactive dashboard that provides actionable insights into **sales performance, customer behavior, product demand, and store performance**.
+## 💼 Business Problem
 
+Coffee shop sales data can make it difficult to identify **top-performing products, customer purchasing patterns, peak ordering times, and store performance**.
+
+This dashboard provides a centralized view of key sales metrics to support **data-driven business decisions**.
+
+---
+
+## 📊 Dataset
+
+Coffee shop sales data containing **transaction, product, category, store, sales, customer, and order-time information**.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Microsoft Excel** – Data Analysis & Dashboard Development
+- **Pivot Tables** – Data Summarization
+- **Pivot Charts** – Data Visualization
+- **Slicers** – Interactive Filtering
+- **Data Cleaning** – Data Preparation
 ## 📊 Dashboard
 
 <p align="center">
